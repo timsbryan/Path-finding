@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es5",
+        "allowJs": true,
+        "checkJs": true,
+        "sourceMap": true,
+        "baseUrl": ".",
+        "typeRoots": ["node_modules/@types"],
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
